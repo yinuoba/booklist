@@ -1,10 +1,11 @@
-以下是目前在我手上的计算机类书籍，**欢迎上海的同学借阅，外地的同学邮费自理**。
-要求：
+**欢迎上海的同学借阅，外地的同学邮费自理**
+
+**要求如下**：
   * 借阅者有技术博客、开源项目、学校的大作业，三选二； 
   * 最多可同时借2本；
   * 借阅时间不超过45天；
   * 看完后交流心得或写一篇读书笔记；
-满足以上要求的同学请发邮件至[Hoogle](mailto:zeng.xianghu@hotmail.com)
+满足以上要求的同学请发邮件至[zeng.xianghu@hotmail.com](mailto:zeng.xianghu@hotmail.com)
 
 ## JavaScript
 
