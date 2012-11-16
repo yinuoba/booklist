@@ -8,14 +8,14 @@
 ## JavaScript
 
 * JavaScript高级程序设计(第三版)
-* JavaScript Dom 高级程序设计   **上海-李伟(2012/11/16)**
+* JavaScript Dom 高级程序设计   **上海—李伟(2012/11/16)**
 * JavaScript语言精髓与编程实践（第2版）
 * JavaScript设计模式
 * 高性能JavaScript
 * JavaScript & DHTML Cookbook(中文版)
 * 深入浅出CoffeeScript
 * JavaScript高效图形编程
-* JavaScript语言精粹(修订版)
+* JavaScript语言精粹(修订版)   **上海—徐波(2012/11/16)**
 * 征服JavaScript 高级程序设计与应用实例
 * 锋利的jQuery
 * Dojo权威指南
