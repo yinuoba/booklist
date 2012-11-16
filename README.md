@@ -8,7 +8,7 @@
 ## JavaScript
 
 * JavaScript高级程序设计(第三版)
-* JavaScript Dom 高级程序设计
+* JavaScript Dom 高级程序设计   上海——李伟(2012/11/16)
 * JavaScript语言精髓与编程实践（第2版）
 * JavaScript设计模式
 * 高性能JavaScript
