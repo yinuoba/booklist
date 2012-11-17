@@ -10,6 +10,7 @@
 * JavaScript高级程序设计(第三版)
 * JavaScript Dom 高级程序设计   **上海—李伟(2012/11/16)**
 * JavaScript语言精髓与编程实践（第2版）
+* 测试驱动的JavaScript开发
 * JavaScript设计模式
 * 高性能JavaScript
 * JavaScript & DHTML Cookbook(中文版)
@@ -33,6 +34,7 @@
 
 ## Web开发相关
 
+* HTTP权威指南
 * 智能手机Web标准开发指南
 * 网站性能监测与优化
 * 高性能网站建设指南
