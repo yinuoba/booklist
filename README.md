@@ -12,6 +12,7 @@
 * JavaScript语言精髓与编程实践（第2版）
 * 测试驱动的JavaScript开发
 * JavaScript设计模式
+* JavaScript模式
 * 高性能JavaScript
 * JavaScript & DHTML Cookbook(中文版)
 * 深入浅出CoffeeScript
