@@ -8,6 +8,7 @@
 ## JavaScript
 
 * JavaScript高级程序设计(第三版)
+* 基于MVC的JavaScript Web富应用开发
 * JavaScript Dom 高级程序设计   **上海—李伟(2012/11/16) 已归还**
 * JavaScript语言精髓与编程实践（第2版）
 * 测试驱动的JavaScript开发
