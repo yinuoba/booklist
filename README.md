@@ -1,9 +1,9 @@
 **欢迎同学们借阅，需邮寄的邮费自理，具体要求如下：**
-  * 借阅者有技术博客、开源项目、学校的大作业，三选一；
+  * 借阅者有技术博客(包括github)、知乎帐号(发起或回答过3个问题以上)、开源项目、学校的大作业，四选一；
   * 最多可同时借2本；
   * 借阅时间不超过45天；
   * 看完后交流心得或写一篇读书笔记；
-满足以上要求的同学请发邮件至[zeng.xianghu@hotmail.com](mailto:zeng.xianghu@hotmail.com)
+满足以上要求的同学请发邮件至[zeng.xianghu@foxmail.com](mailto:zeng.xianghu@foxmail.com)
 
 ## JavaScript
 
